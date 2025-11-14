@@ -258,3 +258,4 @@ MNIST
 # Logs
 wandb/
 logs/
+outputs/
