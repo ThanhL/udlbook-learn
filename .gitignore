@@ -259,3 +259,6 @@ MNIST
 wandb/
 logs/
 outputs/
+
+# GPT weights
+gpt2/
